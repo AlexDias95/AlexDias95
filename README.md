@@ -1,8 +1,8 @@
 ## Hello, I am Alexandre Dias and I love Technology!
 <div align="center">
   <a href="https://github.com/AlexDias95">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexDias95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDias95&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AlexDias95&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDias95&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ansible" height="30" width="40" src="https://amalgjose.files.wordpress.com/2020/10/ansible-logo.png">
@@ -19,6 +19,7 @@
   <a href = "mailto:alex.m.a.dias95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandredias95/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![hippo](https://i.pinimg.com/originals/c9/b2/81/c9b2812d066f8a62ddd0a9f9341eba4d.gif)
+
  
 </div>
+  <img src="https://i.pinimg.com/originals/c9/b2/81/c9b2812d066f8a62ddd0a9f9341eba4d.gif" width="500" height="300"/>
