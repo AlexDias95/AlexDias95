@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/AlexDias95/AlexDias95/399d41de125e14acf4a9f5be7617ceacd9a8f3ba/AlexDias.svg">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/AlexDias95/AlexDias95/399d41de125e14acf4a9f5be7617ceacd9a8f3ba/Imagem PNG-5DB91E70742C-1.png">
 </div>
   
   ##
